@@ -41,11 +41,11 @@
 </p>
 
 <h2 align="center">Contact me</h2>
-<h4 align="center">Seller Source code & Cheating Private</h4>
-<p align="center">Discord: Sarnax#7522</p>
-<p align="center">E-Mail: SarnaxOfficial@protonmail.com</p>
+<h4 align="center">SHOP CHEAT</h4>
+<p align="center">Discord: PAPY | PAPYMENU.XYZ#0001</p>
+<p align="center">WEBSITE: https://papymenu.xyz</p>
 <h4 align="center">For any requests or other</h4>
-<p align="center">Discord Server: https://discord.com/users/943374631644045363
+<p align="center">Discord Server: https://discord.gg/papymenu
 </pre><br>
 
 
@@ -53,8 +53,8 @@
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
-    <a href="https://discord.gg/sFUeS3E6Sz">
-        <img title="Sarnax discord" alt="SarnaxLii's discord" src="https://discord.c99.nl/widget/theme-3/943374631644045363.png"/>
+    <a href="https://discord.gg/papymenu">
+        <img title="Sarnax discord" alt="PAPYMENU discord" src="https://discord.c99.nl/widget/theme-1/PAPY | PAPYMENU.XYZ#0001.png"/>
     </a>
 </p>
 
