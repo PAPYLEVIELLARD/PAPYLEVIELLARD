@@ -54,7 +54,7 @@
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.gg/papymenu">
-        <img title="Sarnax discord" alt="PAPYMENU discord" src="https://discord.c99.nl/widget/theme-1/PAPY | PAPYMENU.XYZ#0001.png"/>
+        <img title="Sarnax discord" alt="PAPYMENU discord" src="https://discord.c99.nl/widget/theme-2/905113494653911150.png"/>
     </a>
 </p>
 
