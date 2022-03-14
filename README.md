@@ -40,18 +40,6 @@
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=Kotlin&logoColor=00648B"></a> 
 </p>
 
-
-
-<h2 align="center">My github profile stastictics.</h2>
-
-<p align="center">
-    <a href="https://github.com/PAPYLEVIELLARD">
-        <img title="PAPYMENU stats" alt="SarnaxLii's streak" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PAPYMENU&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)"/>
-    </a>
-</p><br>
-<a href="https://github.com/SarnaxLii"><img alt="SarnaxLii's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SarnaxLii&bg_color=0D1117&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
-  
-
 <h2 align="center">Contact me</h2>
 <h4 align="center">Seller Source code & Cheating Private</h4>
 <p align="center">Discord: Sarnax#7522</p>
