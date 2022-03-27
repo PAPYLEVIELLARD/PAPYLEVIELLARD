@@ -1,6 +1,6 @@
 <h2 align="center">
   
-![0qwcqwcq](https://user-images.githubusercontent.com/94861415/157602018-88bb96a7-5026-4e29-b506-709df4923dad.jpg)
+![0qwcqwcq](https://cdn.discordapp.com/attachments/517224170015424512/946459997213167706/logo-dark.png)
 
 
 
